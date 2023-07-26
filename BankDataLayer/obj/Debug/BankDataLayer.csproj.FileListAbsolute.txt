@@ -1,0 +1,6 @@
+C:\C#\Windows Forms\BankSystem\BankDataLayer\bin\Debug\BankDataLayer.dll
+C:\C#\Windows Forms\BankSystem\BankDataLayer\bin\Debug\BankDataLayer.pdb
+C:\C#\Windows Forms\BankSystem\BankDataLayer\obj\Debug\BankDataLayer.csproj.AssemblyReference.cache
+C:\C#\Windows Forms\BankSystem\BankDataLayer\obj\Debug\BankDataLayer.csproj.CoreCompileInputs.cache
+C:\C#\Windows Forms\BankSystem\BankDataLayer\obj\Debug\BankDataLayer.dll
+C:\C#\Windows Forms\BankSystem\BankDataLayer\obj\Debug\BankDataLayer.pdb
